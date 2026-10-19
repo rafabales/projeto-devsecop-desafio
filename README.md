@@ -53,6 +53,5 @@ O objetivo é garantir que nenhum código inseguro ou vulnerável chegue à prod
 - O site é publicado automaticamente em ambiente seguro.  
 - **Por que importa:** garante que apenas código seguro e validado chegue à produção.
 
-## URLs
+## URL de Produção
 > URL Produção [https://rafabales.github.io/projeto-devsecop-desafio/]
-> URL Repositório [https://github.com/rafabales/projeto-devsecop-desafio]
